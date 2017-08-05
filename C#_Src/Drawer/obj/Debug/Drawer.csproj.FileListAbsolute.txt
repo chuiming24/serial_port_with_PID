@@ -1,0 +1,32 @@
+E:\我的程序\课件\adc绘制\Drawer\Drawer\bin\Debug\Drawer.exe
+E:\我的程序\课件\adc绘制\Drawer\Drawer\bin\Debug\Drawer.pdb
+E:\我的程序\课件\adc绘制\Drawer\Drawer\obj\Debug\Drawer.csprojResolveAssemblyReference.cache
+E:\我的程序\课件\adc绘制\Drawer\Drawer\obj\Debug\Drawer.Form1.resources
+E:\我的程序\课件\adc绘制\Drawer\Drawer\obj\Debug\Drawer.Properties.Resources.resources
+E:\我的程序\课件\adc绘制\Drawer\Drawer\obj\Debug\Drawer.csproj.GenerateResource.Cache
+E:\我的程序\课件\adc绘制\Drawer\Drawer\obj\Debug\Drawer.exe
+E:\我的程序\课件\adc绘制\Drawer\Drawer\obj\Debug\Drawer.pdb
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Debug\Drawer.exe
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Debug\Drawer.pdb
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\bin\Debug\Drawer.exe
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\bin\Debug\Drawer.pdb
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Debug\Drawer.csprojResolveAssemblyReference.cache
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Debug\Drawer.Drawer.resources
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Debug\Drawer.MainForm.resources
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Debug\Drawer.Properties.Resources.resources
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Debug\Drawer.csproj.GenerateResource.Cache
+E:\B1视频\B15入门C#设计\视频相关资料及程序\第20集：相关程序\多窗口+ADC Box\Drawer\obj\Debug\Drawer.exe
+E:\B1视频\B15入门C#设计\视频相关资料及程序\第20集：相关程序\多窗口+ADC Box\Drawer\obj\Debug\Drawer.pdb
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\bin\Debug\PID串口调试助手.exe.manifest
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\bin\Debug\PID串口调试助手.application
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\bin\Debug\PID串口调试助手.exe
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\bin\Debug\PID串口调试助手.pdb
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Debug\Drawer.csprojResolveAssemblyReference.cache
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Debug\Drawer.Drawer.resources
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Debug\Drawer.MainForm.resources
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Debug\Drawer.Properties.Resources.resources
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Debug\Drawer.csproj.GenerateResource.Cache
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Debug\PID串口调试助手.exe.manifest
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Debug\PID串口调试助手.application
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Debug\PID串口调试助手.exe
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Debug\PID串口调试助手.pdb

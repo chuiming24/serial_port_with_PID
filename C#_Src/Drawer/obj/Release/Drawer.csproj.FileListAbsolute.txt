@@ -1,0 +1,61 @@
+E:\我的程序\课件\adc绘制\Drawer\Drawer\bin\Release\Drawer.exe
+E:\我的程序\课件\adc绘制\Drawer\Drawer\bin\Release\Drawer.pdb
+E:\我的程序\课件\adc绘制\Drawer\Drawer\obj\Release\Drawer.Form1.resources
+E:\我的程序\课件\adc绘制\Drawer\Drawer\obj\Release\Drawer.Properties.Resources.resources
+E:\我的程序\课件\adc绘制\Drawer\Drawer\obj\Release\Drawer.csproj.GenerateResource.Cache
+E:\我的程序\课件\adc绘制\Drawer\Drawer\obj\Release\Drawer.exe
+E:\我的程序\课件\adc绘制\Drawer\Drawer\obj\Release\Drawer.pdb
+E:\我的程序\课件\adc绘制\Drawer\Drawer\obj\Release\Drawer.csprojResolveAssemblyReference.cache
+E:\我的程序\课件\adc绘制\多窗口+ADC\Drawer\obj\Release\Drawer.exe
+E:\我的程序\课件\adc绘制\多窗口+ADC\Drawer\obj\Release\Drawer.pdb
+E:\我的程序\课件\adc绘制\多窗口+ADC\Drawer\bin\Release\Drawer.exe
+E:\我的程序\课件\adc绘制\多窗口+ADC\Drawer\bin\Release\Drawer.pdb
+E:\我的程序\课件\adc绘制\多窗口+ADC\Drawer\obj\Release\Drawer.csprojResolveAssemblyReference.cache
+E:\我的程序\课件\adc绘制\多窗口+ADC\Drawer\obj\Release\Drawer.Form1.resources
+E:\我的程序\课件\adc绘制\多窗口+ADC\Drawer\obj\Release\Drawer.Properties.Resources.resources
+E:\我的程序\课件\adc绘制\多窗口+ADC\Drawer\obj\Release\Drawer.Setting.resources
+E:\我的程序\课件\adc绘制\多窗口+ADC\Drawer\obj\Release\Drawer.csproj.GenerateResource.Cache
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Release\Drawer.exe
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Release\Drawer.pdb
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Release\Drawer.csprojResolveAssemblyReference.cache
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Release\Drawer.Drawer.resources
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Release\Drawer.MainForm.resources
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Release\Drawer.Properties.Resources.resources
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Release\Drawer.csproj.GenerateResource.Cache
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\bin\Release\Drawer.exe
+E:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\bin\Release\Drawer.pdb
+K:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Release\Drawer.exe
+K:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Release\Drawer.pdb
+K:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\bin\Release\Drawer.exe
+K:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\bin\Release\Drawer.pdb
+K:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Release\Drawer.csprojResolveAssemblyReference.cache
+K:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Release\Drawer.Drawer.resources
+K:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Release\Drawer.MainForm.resources
+K:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Release\Drawer.Properties.Resources.resources
+K:\我的程序\课件\adc绘制\多窗口+ADC Box\Drawer\obj\Release\Drawer.csproj.GenerateResource.Cache
+E:\B1视频\B15入门C#设计\视频相关资料及程序\第20集：相关程序\多窗口+ADC Box\Drawer\obj\Release\Drawer.exe
+E:\B1视频\B15入门C#设计\视频相关资料及程序\第20集：相关程序\多窗口+ADC Box\Drawer\obj\Release\Drawer.pdb
+E:\B1视频\B15入门C#设计\视频相关资料及程序\第20集：相关程序\多窗口+ADC Box\Drawer\bin\Release\Drawer.exe
+E:\B1视频\B15入门C#设计\视频相关资料及程序\第20集：相关程序\多窗口+ADC Box\Drawer\obj\Release\Drawer.csprojResolveAssemblyReference.cache
+E:\B1视频\B15入门C#设计\视频相关资料及程序\第20集：相关程序\多窗口+ADC Box\Drawer\obj\Release\Drawer.Drawer.resources
+E:\B1视频\B15入门C#设计\视频相关资料及程序\第20集：相关程序\多窗口+ADC Box\Drawer\obj\Release\Drawer.MainForm.resources
+E:\B1视频\B15入门C#设计\视频相关资料及程序\第20集：相关程序\多窗口+ADC Box\Drawer\obj\Release\Drawer.Properties.Resources.resources
+E:\B1视频\B15入门C#设计\视频相关资料及程序\第20集：相关程序\多窗口+ADC Box\Drawer\obj\Release\Drawer.csproj.GenerateResource.Cache
+E:\B1视频\B15入门C#设计\视频相关资料及程序\第20集：相关程序\多窗口+ADC Box\Drawer\bin\Release\Drawer.pdb
+E:\B1视频\B15入门C#设计\视频相关资料及程序\第20集：相关程序\多窗口+ADC Box\Drawer\bin\Release\Drawer.exe.manifest
+E:\B1视频\B15入门C#设计\视频相关资料及程序\第20集：相关程序\多窗口+ADC Box\Drawer\bin\Release\Drawer.application
+E:\B1视频\B15入门C#设计\视频相关资料及程序\第20集：相关程序\多窗口+ADC Box\Drawer\obj\Release\Drawer.exe.manifest
+E:\B1视频\B15入门C#设计\视频相关资料及程序\第20集：相关程序\多窗口+ADC Box\Drawer\obj\Release\Drawer.application
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Release\Drawer.csprojResolveAssemblyReference.cache
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Release\Drawer.Drawer.resources
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Release\Drawer.MainForm.resources
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Release\Drawer.Properties.Resources.resources
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Release\Drawer.csproj.GenerateResource.Cache
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\bin\Release\PID串口调试助手.exe.manifest
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\bin\Release\PID串口调试助手.application
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\bin\Release\PID串口调试助手.exe
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\bin\Release\PID串口调试助手.pdb
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Release\PID串口调试助手.exe.manifest
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Release\PID串口调试助手.application
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Release\PID串口调试助手.exe
+E:\BaiduYunDownload\杜洋入门C#设计视频资料(1)\资料\第20、21集：相关程序\第20、21集：相关程序\串口数据的波形显示软件\Drawer\obj\Release\PID串口调试助手.pdb
